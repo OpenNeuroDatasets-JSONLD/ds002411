@@ -75,5 +75,15 @@
     },
     "performance_Subcategory": {
         "Description": "behavioral performance of subject on post MRI session in the experiment"
+    },
+    "participant_id": {
+        "Annotations": {
+            "IsAbout": {
+                "TermURL": "nb:ParticipantID",
+                "Label": ""
+            },
+            "Identifies": "participant"
+        },
+        "Description": "There should have been a description here, but there wasn't. :("
     }
 }
