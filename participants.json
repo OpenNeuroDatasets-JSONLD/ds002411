@@ -49,17 +49,7 @@
         }
     },
     "edinburgh_LQ": {
-        "Description": "handedness laterality quotient of the subject assessed by Edinburgh handedness inventory",
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949a41",
-                "Label": ""
-            }
-        }
+        "Description": "handedness laterality quotient of the subject assessed by Edinburgh handedness inventory"
     },
     "recruite_Criteria": {
         "Description": "recruting criterion used to recruit the subject",
